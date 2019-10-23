@@ -6,6 +6,6 @@ from secret_wishlist_cdk.secret_wishlist_cdk_stack import SecretWishlistCdkStack
 
 
 app = core.App()
-SecretWishlistCdkStack(app, "secret-wishlist-cdk")
+SecretWishlistCdkStack(app, "secret-wishlist-cdk-stack")
 
 app.synth()

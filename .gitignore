@@ -1,0 +1,6 @@
+cdk.out
+.env
+.idea
+secret_wishlist_cdk/__pycache__/
+*.egg-info
+
